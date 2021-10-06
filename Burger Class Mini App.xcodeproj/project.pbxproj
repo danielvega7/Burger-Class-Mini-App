@@ -15,6 +15,7 @@
 		06142785270D1EB300C6044D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06142783270D1EB300C6044D /* LaunchScreen.storyboard */; };
 		06142790270D1EB300C6044D /* Burger_Class_Mini_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0614278F270D1EB300C6044D /* Burger_Class_Mini_AppTests.swift */; };
 		0614279B270D1EB300C6044D /* Burger_Class_Mini_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0614279A270D1EB300C6044D /* Burger_Class_Mini_AppUITests.swift */; };
+		061427A9270D20EB00C6044D /* BurgerClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061427A8270D20EB00C6044D /* BurgerClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		06142796270D1EB300C6044D /* Burger Class Mini AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Burger Class Mini AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0614279A270D1EB300C6044D /* Burger_Class_Mini_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Burger_Class_Mini_AppUITests.swift; sourceTree = "<group>"; };
 		0614279C270D1EB300C6044D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		061427A8270D20EB00C6044D /* BurgerClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BurgerClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				0614277A270D1EAC00C6044D /* SceneDelegate.swift */,
 				0614277C270D1EAC00C6044D /* ViewController.swift */,
 				0614277E270D1EAC00C6044D /* Main.storyboard */,
+				061427A8270D20EB00C6044D /* BurgerClass.swift */,
 				06142781270D1EB200C6044D /* Assets.xcassets */,
 				06142783270D1EB300C6044D /* LaunchScreen.storyboard */,
 				06142786270D1EB300C6044D /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0614277D270D1EAC00C6044D /* ViewController.swift in Sources */,
+				061427A9270D20EB00C6044D /* BurgerClass.swift in Sources */,
 				06142779270D1EAC00C6044D /* AppDelegate.swift in Sources */,
 				0614277B270D1EAC00C6044D /* SceneDelegate.swift in Sources */,
 			);
